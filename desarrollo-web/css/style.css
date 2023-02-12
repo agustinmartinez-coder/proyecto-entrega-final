@@ -1,0 +1,207 @@
+/*index*/
+.fondo {
+    background-color: white;
+}
+
+.titulo {
+    color: white;
+    background-color: black;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: small;
+    display: flex;
+    text-decoration: none;
+    list-style-type: none;
+    min-width: 500px;
+}
+.menu { 
+    background-color: black;
+    color: white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: small;
+    padding-top: 20px;
+    display: flex;
+    text-decoration: none;
+    list-style-type: none;
+    position: relative;
+}
+nav ul{
+    list-style-type: none;
+    text-decoration: none;
+}
+.logo {
+    width: 500px;
+    margin-left: 300px ;
+    margin-right: 350px;
+    margin-top: 30px;
+    display: flex;
+    position: relative;
+}
+.pie {
+    width: 150px;
+    margin-top: 150px;
+    margin-left: 50px;
+    margin-right: 50px;
+    position:relative;
+    display: flex;
+}
+/*contacto*/
+.fondo {
+    background-color: white;
+}
+
+.menu-1{
+    color: white;
+    background-color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: small;
+    list-style-type: none;
+    text-decoration: none;
+}
+.titulo {
+    background-color: black;
+    color: white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: small;
+    padding-top: 0px;
+    display: flex;
+    flex-wrap: wrap;
+    min-width: 500px;
+}
+.menu-1 {
+    background-color: black;
+    color: white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: small;
+    padding-top: 20px;
+    display: flex;
+    list-style-type: none;
+    text-decoration: none;
+    flex-wrap: wrap;
+    flex-direction: row;
+    position: relative;
+}
+main{
+    width: 500px;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+.ul li a {
+    list-style-type: none;
+    text-decoration: none;
+}
+/*origen*/
+.titulo {
+    color: white;
+    background-color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: small;
+    padding-top: 20px;
+    display: flex;
+    list-style-type: none;
+    text-decoration: none;
+    flex-wrap: wrap;
+}
+.menu {
+    color:white;
+    background-color: black;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: small;
+list-style-type: none;
+text-decoration: none;
+position: relative;
+}
+.ul li a {
+    list-style-type: none;
+    text-decoration: none;
+}
+/*informacion*/
+.informacion {
+    background-color: black;
+    color: white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: small;
+    padding-top: 20px;
+    display: flex;
+    list-style-type: none;
+    text-decoration: none;
+    flex-wrap: wrap;
+}
+.menu-5 {
+    color: black;
+    background-color: black;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: small;
+    padding-top: none;
+    list-style-type: none;
+    text-decoration: none;
+    display: flex;
+}
+
+.logo1 {
+    width: 400px;
+    margin-left: 250px;
+    margin-right: 300px;
+}
+.main-2{ 
+    background-color: white;
+    color: black;
+
+}
+
+/*origen*/
+.menu-2{
+    color: white;
+    background-color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: small;
+    padding-top: 20px;
+    display: flex;
+}
+.cuerpo{
+    color: black;
+    background-color: white;
+}
+
+/*novedades*/
+h1{
+    background-color: black;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: small;
+    padding-top: 20px;
+    flex-wrap: wrap;
+    display: flex;
+}
+.title{
+    color: white;
+    background-color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: small;
+    text-decoration: none;
+    list-style-type: none;
+
+}
+.menu-4{
+color: white;
+background-color: black;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: small;
+padding-top: 20px;
+flex-wrap: wrap;
+display: flex;
+}
+
+.stock{
+    width: 500px;
+    flex-direction: column;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.boton{
+    width: 200px;
+    height: 60px;
+    background-color: rgb(3, 243, 23);
+    border-radius: .5em;
+    cursor: pointer;
+}

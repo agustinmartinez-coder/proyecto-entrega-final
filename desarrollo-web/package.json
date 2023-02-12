@@ -1,0 +1,18 @@
+{
+  "name": "desarrollo-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build-css": "node-sass --include-path scss scss/style.scss css css/style.css",
+    "watch-css": "nodemon -e scss -x \"npm run build css\"npm"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies":{ 
+    "node": "^19.4.0",
+    "nodemon": "^2.0.20",
+    "sass": "^1.57.1"
+  }
+}
